@@ -1,0 +1,25 @@
+Review,Label
+"I loved the product.",Positive
+"This is the best purchase I've ever made.",Positive
+"The quality is excellent.",Positive
+"I'm extremely satisfied.",Positive
+"Highly recommend this to anyone!",Positive
+"Fantastic experience.",Positive
+"Exceptional service.",Positive
+"Top-notch quality.",Positive
+"The product was terrible.",Negative
+"Very disappointing.",Negative
+"I'll never buy this again.",Negative
+"Complete waste of money.",Negative
+"Worst service ever.",Negative
+"Extremely poor quality.",Negative
+"I regret this purchase.",Negative
+"Utterly useless.",Negative
+"Great product but poor customer service.",Neutral
+"The item is okay, nothing special.",Neutral
+"Product is good, but took too long to arrive.",Neutral
+"Quality is fine but not worth the price.",Neutral
+"Service was average.",Neutral
+"It's just okay.",Neutral
+"Neither good nor bad.",Neutral
+"Mixed feelings about this.",Neutral
