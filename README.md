@@ -9,6 +9,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Generating a GPT-3 model
+
 Creating a GPT-3 model from scratch in PyTorch involves multiple steps. Below is a simplified outline:
 
 1. **Architecture:**
